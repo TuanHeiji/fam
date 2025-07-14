@@ -46,7 +46,7 @@ fam/
 ## Cách chạy dự án
 
 1. Clone project:
-- git clone https://github.com/your-username/your-project.git
+- git clone https://github.com/TuanHeiji/fam.git
 
 2. Mở XAMPP, bật Apache và MySQL.
 
